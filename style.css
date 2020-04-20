@@ -1,0 +1,7 @@
+html {
+  --bg-color: #333333;
+}
+
+body {
+  background-color: var(--bg-color);
+}
